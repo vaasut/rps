@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab Experiment</title>
+    <link rel="stylesheet" href="index.css">
+    <script type="text/javascript" src = "index.js"></script>
+</head>
+<body>
+    <h1> Rock, Paper, Scissors! </h1>
+    <div id="gameImages">
+        <img src = "images/rockResized.jpg" id="rock" onclick="chooseOption(this.id)" alt = "rock" width="200px">
+        <img src = "images/paper.jpg" id="paper" onclick="chooseOption(this.id)" alt = "paper" width="200px">
+        <img src = "images/scissors.jpg" id="scissors" onclick="chooseOption(this.id)" alt = "scissors" width="200px">
+    </div>
+    <div id="gameText">
+        You've selected Rock!
+    </div>
+    <div id="buttonContainer">
+        <button id="play" onclick="play()">
+            Go!
+        </button>
+    </div>
+</body>
+</html>

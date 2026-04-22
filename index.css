@@ -1,0 +1,49 @@
+h1{
+    font-size: 24px;
+    text-align: center;
+    margin: 20px;
+}
+
+button{
+    width: 250px;
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #008CBA;
+}
+
+#gameImages{
+    display: flex;
+    margin: 30px;
+    justify-content: space-around;
+}
+
+#rock{
+    border: 3px solid black;
+}
+
+#paper{
+    border: 3px dotted black;
+}
+
+#scissors{
+    border: 3px dotted black;
+}
+
+#gameText{
+    display: flex;
+    margin: 30px;
+    justify-content: space-around;
+    font-size: 24px;
+}
+
+#buttonContainer{
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+}
