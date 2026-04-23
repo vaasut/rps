@@ -7,3 +7,10 @@
 3. Instead of displaying the results with an alert, make a custom div that pops up with the game result.
 4. Add functionality to keep track of and display a game score.
 5. Rebuild the site using a tool or resource you want to learn about, like [React](https://react.dev/).
+
+
+### Image Source Links.
+
+[Rock](https://share.google/dL1KK0E4bHd7y0THP)
+[Paper](https://share.google/RwsDOo2xtQFAVNbYm)
+[Scissors](https://share.google/gJXZx1jt2ODsu3IoF)
